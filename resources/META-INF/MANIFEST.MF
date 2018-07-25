@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: gson-2.8.2.jar java-client-5.0.4.jar cucumber-java.jar htt
+ pclient-4.5.3.jar okhttp-3.9.1.jar commons-lang3-3.7.jar commons-exec
+ -1.3.jar gherkin-2.12.2.jar cucumber-jvm-formatter.jar asm-6.0.jar co
+ mmons-logging-1.2.jar guava-23.6-jre.jar okio-1.13.0.jar httpcore-4.4
+ .6.jar cglib-3.2.6.jar byte-buddy-1.8.3.jar client-combined-3.12.0.ja
+ r cucumber-core-1.2.4.jar commons-codec-1.10.jar
+
